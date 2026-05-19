@@ -4,7 +4,7 @@
 > **Field:** Natural Language Processing (NLP)  
 > **Infrastructure:** Corpus (in development)  
 > **Grant Duration:** 4 Years  
-> **Contact email:** lt4cpr@gmail.com  
+> **Contact email:** LT4Crisis@gmail.com  
 > **Status:** Draft v3 — May 2026
 
 ## Sources
@@ -139,8 +139,9 @@ Two groups, each with their own subsection:
 ### Workshops
 **Index page** listing all workshops affiliated with the project:
 
-| Workshop | Conference | Date | Location | Status |
+| Workshop | Conference / Venue | Date | Location | Status |
 | --- | --- | --- | --- | --- |
+| Language Technology for Crisis Preparedness and Response *(planning workshop)* | George Mason University | Jun 1–2, 2023 | Fairfax, VA | Past |
 | Voices Across Crises: Stakeholder Perspectives and Opportunities for AI Speech Technologies | ISCRAM 2026 | May 31, 2026 (Sun) | Leiden University, Campus The Hague, Netherlands | Upcoming |
 | LT4CPR: Language Technologies for Crisis Preparedness and Response | AACL-IJCNLP 2026 | Nov 9, 2026 (Mon) | Hengqin, Zhuhai, China | Upcoming |
 
@@ -152,7 +153,7 @@ Each workshop has its own dedicated page. Content differs by workshop type:
 - Conference, date, location
 - Organizing committee: Belu Ticona, Antonios Anastasopoulos, William D. Lewis
 - NSF acknowledgment
-- Contact: [lt4cpr@gmail.com](mailto:lt4cpr@gmail.com)
+- Contact: [LT4Crisis@gmail.com](mailto:LT4Crisis@gmail.com)
 
 **Workshop 2 — AACL 2026 (NLP, own website)** `/workshops/lt4cpr-aacl2026`
 
@@ -194,7 +195,7 @@ Two clearly labeled sections:
 
 ### Contact
 
-- Project email: [lt4cpr@gmail.com](mailto:lt4cpr@gmail.com)
+- Project email: [LT4Crisis@gmail.com](mailto:LT4Crisis@gmail.com)
 - [George Mason University — Computer Science](https://cs.gmu.edu)
 - [University of Washington — Linguistics](https://linguistics.washington.edu)
 - *(Social media links — pending account creation — see TODO)*
@@ -215,7 +216,7 @@ Two clearly labeled sections:
 ### Google Analytics 4 — Phase 1 Events to Track
 - Page views (automatic in GA4)
 - Outbound link clicks (partner sites, NSF award page, workshop submission systems, conference pages)
-- Contact email clicks (lt4cpr@gmail.com)
+- Contact email clicks (LT4Crisis@gmail.com)
 - Workshop page visits (measures community interest before corpus is ready)
 
 ---
@@ -239,7 +240,7 @@ Two clearly labeled sections:
 - [ ] Events page live (start with upcoming events)
 - [ ] Publications page live (even if few entries yet)
 - [ ] News page live with at least one post — first post: ISCRAM 2026 workshop announcement
-- [ ] Contact page with lt4cpr@gmail.com
+- [ ] Contact page with LT4Crisis@gmail.com
 - [ ] NSF acknowledgment with **both award numbers** + NSF logo in footer on all pages
 
 **QA**
@@ -262,7 +263,7 @@ Two clearly labeled sections:
 
 | Page / Feature | Notes |
 |---|---|
-| **Corpus — Coming Soon page** | What the corpus will contain (domain, languages, annotation types), why it fills a gap, who it's for, planned release timeline, contact: [lt4cpr@gmail.com](mailto:lt4cpr@gmail.com) |
+| **Corpus — Coming Soon page** | What the corpus will contain (domain, languages, annotation types), why it fills a gap, who it's for, planned release timeline, contact: [LT4Crisis@gmail.com](mailto:LT4Crisis@gmail.com) |
 | **Corpus — Beta Access** | Gated release; application form; data use agreement (license: CC-BY, CC-BY-NC, or custom) |
 | **Documentation v0.x** | Data format (JSON, CoNLL, etc.), annotation schema, known limitations and biases |
 | **Datasheet** | Formal datasheet (Gebru et al. format): corpus provenance, coverage, ethical considerations |
@@ -345,6 +346,42 @@ Items that need a decision or action before they can move forward.
 ---
 
 ## Workshops Log
+
+### Workshop 0 — LT4CPR Planning Workshop @ GMU 2023 *(past)*
+
+| Field | Value |
+| --- | --- |
+| **Public** | Yes |
+| **Full title** | Language Technology for Crisis Preparedness and Response |
+| **Type** | Invitation-only planning / kickoff workshop (no CFP) |
+| **Dates** | June 1–2, 2023 (kickoff dinner May 31) |
+| **Location** | George Mason University, Horizon Hall Room 2010, Fairfax, VA |
+| **Organizer** | Antonios Anastasopoulos (GMU) |
+| **Funding** | National Science Foundation and George Mason University |
+| **Source URL** | [nlp.cs.gmu.edu/post/lt4cpr](https://nlp.cs.gmu.edu/post/lt4cpr/) |
+
+**Purpose:** Bring together researchers in NLP, disaster relief, linguistics, and human-computer interaction to plan research infrastructure for language technologies serving vulnerable populations across the world's 6,500+ languages.
+
+**Invited Speakers:**
+
+| Speaker | Affiliation | Talk title |
+| --- | --- | --- |
+| William D. Lewis | University of Washington | "Language Technologies in Crises" |
+| Manuel Locria | CLEAR Global (formerly Translators without Borders) | "Enhancing Communication: Engaging Communities with AI-Powered Language Solutions" |
+| Kalika Bali | Microsoft Research India | "Global Readiness of Language Technology for Healthcare" |
+
+**Confirmed Participants:**
+Angelina Aquino (Charles Darwin University, Australia), Kalika Bali (Microsoft Research India), Steven Bird (Charles Darwin University, Australia), Isaac Gang (GMU), Ellie Kemp (CLEAR Global), Will Lewis (University of Washington), Jackie Lo (National Research Council, Canada), Manuel Locria (CLEAR Global), Robert Monarch (Apple), Isar Nejadgholi (National Research Council, Canada), Sarah Nguyen (Afterlab, University of Washington), Sharon O'Brien (Dublin City University, Ireland), Steve Richardson (BYU), Sylwia Tur (Appen), Fei Xia (University of Washington).
+
+**Schedule summary:**
+
+*Day 1 — Thursday, June 1:*
+Welcome and introductions → Invited talk (Will Lewis) → Roundtable on disaster scenarios → Brief presentations → Invited talk (Manuel Locria) → Roundtable on data and language technologies → Presentations and wrap-up.
+
+*Day 2 — Friday, June 2:*
+Summary and daily goals → Invited talk (Kalika Bali) → Roundtable on research infrastructure → Presentations and wrap-up → Working groups.
+
+---
 
 ### Workshop 1 — Voices Across Crises (ISCRAM 2026)
 
